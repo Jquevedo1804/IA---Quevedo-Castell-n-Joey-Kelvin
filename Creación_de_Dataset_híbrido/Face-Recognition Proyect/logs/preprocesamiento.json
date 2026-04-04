@@ -1,0 +1,2025 @@
+{
+  "timestamp": "2026-04-04T14:53:55.466869",
+  "detector": "Haar",
+  "resolucion": "160x160",
+  "categorias": {
+    "Actores/Brad Pitt": {
+      "procesadas": 94,
+      "omitidas": 6,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            117,
+            139,
+            272,
+            272
+          ],
+          "archivo": "BradPitt_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            97,
+            121,
+            233,
+            233
+          ],
+          "archivo": "BradPitt_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            197,
+            211,
+            156,
+            156
+          ],
+          "archivo": "BradPitt_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            34,
+            33,
+            82,
+            82
+          ],
+          "archivo": "BradPitt_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            152,
+            92,
+            189,
+            189
+          ],
+          "archivo": "BradPitt_12.jpg"
+        }
+      ]
+    },
+    "Actores/Johnny Depp": {
+      "procesadas": 90,
+      "omitidas": 10,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            129,
+            106,
+            211,
+            211
+          ],
+          "archivo": "Johnny_Depp_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            161,
+            137,
+            145,
+            145
+          ],
+          "archivo": "Johnny_Depp_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            164,
+            75,
+            155,
+            155
+          ],
+          "archivo": "Johnny_Depp_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            123,
+            71,
+            181,
+            181
+          ],
+          "archivo": "Johnny_Depp_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            103,
+            83,
+            186,
+            186
+          ],
+          "archivo": "Johnny_Depp_12.jpg"
+        }
+      ]
+    },
+    "Actores/Leonardo DiCaprio": {
+      "procesadas": 99,
+      "omitidas": 1,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            124,
+            120,
+            257,
+            257
+          ],
+          "archivo": "Leonardo_DiCaprio_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            108,
+            85,
+            292,
+            292
+          ],
+          "archivo": "Leonardo_DiCaprio_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            144,
+            77,
+            133,
+            133
+          ],
+          "archivo": "Leonardo_DiCaprio_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            86,
+            113,
+            249,
+            249
+          ],
+          "archivo": "Leonardo_DiCaprio_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            107,
+            96,
+            217,
+            217
+          ],
+          "archivo": "Leonardo_DiCaprio_12.jpg"
+        }
+      ]
+    },
+    "Actores/Will Smith": {
+      "procesadas": 82,
+      "omitidas": 18,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            115,
+            46,
+            313,
+            313
+          ],
+          "archivo": "Will_Smith_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            135,
+            55,
+            217,
+            217
+          ],
+          "archivo": "Will_Smith_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            172,
+            64,
+            228,
+            228
+          ],
+          "archivo": "Will_Smith_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            181,
+            62,
+            143,
+            143
+          ],
+          "archivo": "Will_Smith_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            96,
+            113,
+            132,
+            132
+          ],
+          "archivo": "Will_Smith_12.jpg"
+        }
+      ]
+    },
+    "Actrices/Angelina Jolie": {
+      "procesadas": 97,
+      "omitidas": 3,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            74,
+            115,
+            287,
+            287
+          ],
+          "archivo": "Angelina_Jolie_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            115,
+            109,
+            229,
+            229
+          ],
+          "archivo": "Angelina_Jolie_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            218,
+            135,
+            134,
+            134
+          ],
+          "archivo": "Angelina_Jolie_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            201,
+            104,
+            220,
+            220
+          ],
+          "archivo": "Angelina_Jolie_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            101,
+            100,
+            254,
+            254
+          ],
+          "archivo": "Angelina_Jolie_12.jpg"
+        }
+      ]
+    },
+    "Actrices/Jennifer Lawrence": {
+      "procesadas": 98,
+      "omitidas": 2,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            163,
+            100,
+            183,
+            183
+          ],
+          "archivo": "JenniferLawrence_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            164,
+            118,
+            271,
+            271
+          ],
+          "archivo": "JenniferLawrence_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            182,
+            77,
+            206,
+            206
+          ],
+          "archivo": "JenniferLawrence_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            149,
+            80,
+            112,
+            112
+          ],
+          "archivo": "JenniferLawrence_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            187,
+            105,
+            216,
+            216
+          ],
+          "archivo": "JenniferLawrence_13.jpg"
+        }
+      ]
+    },
+    "Actrices/MeganFox": {
+      "procesadas": 94,
+      "omitidas": 6,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            121,
+            131,
+            257,
+            257
+          ],
+          "archivo": "meganfox_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            139,
+            89,
+            200,
+            200
+          ],
+          "archivo": "meganfox_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            152,
+            46,
+            109,
+            109
+          ],
+          "archivo": "meganfox_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            85,
+            107,
+            300,
+            300
+          ],
+          "archivo": "meganfox_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            122,
+            147,
+            235,
+            235
+          ],
+          "archivo": "meganfox_12.jpg"
+        }
+      ]
+    },
+    "Actrices/Natalie Portman": {
+      "procesadas": 98,
+      "omitidas": 2,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            99,
+            111,
+            294,
+            294
+          ],
+          "archivo": "Natalie_Portman_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            222,
+            117,
+            183,
+            183
+          ],
+          "archivo": "Natalie_Portman_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            59,
+            83,
+            257,
+            257
+          ],
+          "archivo": "Natalie_Portman_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            78,
+            124,
+            308,
+            308
+          ],
+          "archivo": "Natalie_Portman_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            100,
+            110,
+            220,
+            220
+          ],
+          "archivo": "Natalie_Portman_12.jpg"
+        }
+      ]
+    },
+    "Actrices/Nicole Kidman": {
+      "procesadas": 98,
+      "omitidas": 2,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            143,
+            122,
+            189,
+            189
+          ],
+          "archivo": "Nicole_Kidman_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            108,
+            88,
+            235,
+            235
+          ],
+          "archivo": "Nicole_Kidman_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            220,
+            64,
+            85,
+            85
+          ],
+          "archivo": "Nicole_Kidman_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            36,
+            25,
+            77,
+            77
+          ],
+          "archivo": "Nicole_Kidman_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            127,
+            95,
+            169,
+            169
+          ],
+          "archivo": "Nicole_Kidman_12.jpg"
+        }
+      ]
+    },
+    "Actrices/Sandra Bullock": {
+      "procesadas": 92,
+      "omitidas": 8,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            129,
+            117,
+            212,
+            212
+          ],
+          "archivo": "Sandra_Bullock_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            83,
+            98,
+            215,
+            215
+          ],
+          "archivo": "Sandra_Bullock_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            126,
+            88,
+            142,
+            142
+          ],
+          "archivo": "Sandra_Bullock_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            170,
+            114,
+            148,
+            148
+          ],
+          "archivo": "Sandra_Bullock_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            166,
+            104,
+            180,
+            180
+          ],
+          "archivo": "Sandra_Bullock_13.jpg"
+        }
+      ]
+    },
+    "Alumnos/Israel": {
+      "procesadas": 120,
+      "omitidas": 0,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            25,
+            111,
+            111
+          ],
+          "archivo": "Israel_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            26,
+            24,
+            111,
+            111
+          ],
+          "archivo": "Israel_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            27,
+            25,
+            109,
+            109
+          ],
+          "archivo": "Israel_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            23,
+            112,
+            112
+          ],
+          "archivo": "Israel_101.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            25,
+            24,
+            110,
+            110
+          ],
+          "archivo": "Israel_102.jpg"
+        }
+      ]
+    },
+    "Alumnos/Joey": {
+      "procesadas": 117,
+      "omitidas": 0,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            25,
+            111,
+            111
+          ],
+          "archivo": "Joey_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            27,
+            29,
+            104,
+            104
+          ],
+          "archivo": "Joey_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            20,
+            116,
+            116
+          ],
+          "archivo": "Joey_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            23,
+            21,
+            115,
+            115
+          ],
+          "archivo": "Joey_101.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            25,
+            23,
+            115,
+            115
+          ],
+          "archivo": "Joey_102.jpg"
+        }
+      ]
+    },
+    "Alumnos/Kevin": {
+      "procesadas": 120,
+      "omitidas": 0,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            28,
+            26,
+            108,
+            108
+          ],
+          "archivo": "Kevin_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            23,
+            116,
+            116
+          ],
+          "archivo": "Kevin_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            26,
+            25,
+            106,
+            106
+          ],
+          "archivo": "Kevin_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            24,
+            112,
+            112
+          ],
+          "archivo": "Kevin_101.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            26,
+            29,
+            105,
+            105
+          ],
+          "archivo": "Kevin_102.jpg"
+        }
+      ]
+    },
+    "Cantantes/Dua Lipa": {
+      "procesadas": 58,
+      "omitidas": 17,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            84,
+            65,
+            276,
+            276
+          ],
+          "archivo": "DuaLipa_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            964,
+            293,
+            773,
+            773
+          ],
+          "archivo": "DuaLipa_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            256,
+            234,
+            651,
+            651
+          ],
+          "archivo": "DuaLipa_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            495,
+            243,
+            1078,
+            1078
+          ],
+          "archivo": "DuaLipa_13.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            1501,
+            359,
+            866,
+            866
+          ],
+          "archivo": "DuaLipa_14.jpg"
+        }
+      ]
+    },
+    "Cantantes/Maluma": {
+      "procesadas": 53,
+      "omitidas": 15,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            620,
+            202,
+            285,
+            285
+          ],
+          "archivo": "Maluma_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            280,
+            181,
+            556,
+            556
+          ],
+          "archivo": "Maluma_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            506,
+            201,
+            428,
+            428
+          ],
+          "archivo": "Maluma_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            302,
+            106,
+            451,
+            451
+          ],
+          "archivo": "Maluma_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            175,
+            125,
+            368,
+            368
+          ],
+          "archivo": "Maluma_13.jpg"
+        }
+      ]
+    },
+    "Cantantes/Sabrina_Carpenter": {
+      "procesadas": 52,
+      "omitidas": 14,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            382,
+            187,
+            382,
+            382
+          ],
+          "archivo": "Sabrina_Carpenter_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            709,
+            479,
+            1217,
+            1217
+          ],
+          "archivo": "Sabrina_Carpenter_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            449,
+            391,
+            1039,
+            1039
+          ],
+          "archivo": "Sabrina_Carpenter_13.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            338,
+            165,
+            566,
+            566
+          ],
+          "archivo": "Sabrina_Carpenter_14.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            59,
+            290,
+            644,
+            644
+          ],
+          "archivo": "Sabrina_Carpenter_15.jpg"
+        }
+      ]
+    },
+    "Cantantes/Taylor_Swift": {
+      "procesadas": 55,
+      "omitidas": 25,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            476,
+            159,
+            382,
+            382
+          ],
+          "archivo": "Taylor_Swift_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            853,
+            988,
+            1238,
+            1238
+          ],
+          "archivo": "Taylor_Swift_11.jpeg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            67,
+            179,
+            615,
+            615
+          ],
+          "archivo": "Taylor_Swift_13.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            158,
+            129,
+            474,
+            474
+          ],
+          "archivo": "Taylor_Swift_16.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            955,
+            393,
+            577,
+            577
+          ],
+          "archivo": "Taylor_Swift_17.jpg"
+        }
+      ]
+    },
+    "Comediantes/Charles_Chaplin": {
+      "procesadas": 17,
+      "omitidas": 1,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            135,
+            267,
+            460,
+            460
+          ],
+          "archivo": "000001.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            159,
+            462,
+            660,
+            660
+          ],
+          "archivo": "000002.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            101,
+            205,
+            352,
+            352
+          ],
+          "archivo": "000003.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            290,
+            307,
+            568,
+            568
+          ],
+          "archivo": "000004.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            134,
+            373,
+            526,
+            526
+          ],
+          "archivo": "000005.jpg"
+        }
+      ]
+    },
+    "Comediantes/Eugenio_Derbez": {
+      "procesadas": 20,
+      "omitidas": 0,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            80,
+            40,
+            122,
+            122
+          ],
+          "archivo": "Eugenio_Derbez_0.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            74,
+            98,
+            210,
+            210
+          ],
+          "archivo": "Eugenio_Derbez_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            58,
+            86,
+            265,
+            265
+          ],
+          "archivo": "Eugenio_Derbez_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            72,
+            66,
+            102,
+            102
+          ],
+          "archivo": "Eugenio_Derbez_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            62,
+            79,
+            190,
+            190
+          ],
+          "archivo": "Eugenio_Derbez_12.jpg"
+        }
+      ]
+    },
+    "Comediantes/Franco_Escamilla": {
+      "procesadas": 23,
+      "omitidas": 6,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            772,
+            156,
+            277,
+            277
+          ],
+          "archivo": "Franco_Escamilla_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            466,
+            204,
+            275,
+            275
+          ],
+          "archivo": "Franco_Escamilla_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            485,
+            180,
+            105,
+            105
+          ],
+          "archivo": "Franco_Escamilla_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            408,
+            147,
+            146,
+            146
+          ],
+          "archivo": "Franco_Escamilla_13.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            520,
+            72,
+            159,
+            159
+          ],
+          "archivo": "Franco_Escamilla_14.jpg"
+        }
+      ]
+    },
+    "Comediantes/Sofia_Niño_de_Rivera": {
+      "procesadas": 0,
+      "omitidas": 26,
+      "muestras": []
+    },
+    "Comediantes/Teo_Gonzales": {
+      "procesadas": 17,
+      "omitidas": 2,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            373,
+            54,
+            123,
+            123
+          ],
+          "archivo": "000003.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            51,
+            120,
+            117,
+            117
+          ],
+          "archivo": "000004.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            614,
+            122,
+            392,
+            392
+          ],
+          "archivo": "000006.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            377,
+            135,
+            226,
+            226
+          ],
+          "archivo": "000008.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            294,
+            122,
+            208,
+            208
+          ],
+          "archivo": "000009.jpg"
+        }
+      ]
+    },
+    "Criminales/Jeffrey_Dhamer": {
+      "procesadas": 17,
+      "omitidas": 0,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            377,
+            295,
+            544,
+            544
+          ],
+          "archivo": "Jeffrey_Dhamer_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            51,
+            513,
+            1113,
+            1113
+          ],
+          "archivo": "Jeffrey_Dhamer_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            51,
+            513,
+            1113,
+            1113
+          ],
+          "archivo": "Jeffrey_Dhamer_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            298,
+            246,
+            467,
+            467
+          ],
+          "archivo": "Jeffrey_Dhamer_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            699,
+            50,
+            245,
+            245
+          ],
+          "archivo": "Jeffrey_Dhamer_13.jpg"
+        }
+      ]
+    },
+    "Criminales/Jeffrey_Epstein": {
+      "procesadas": 27,
+      "omitidas": 0,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            289,
+            889,
+            1188,
+            1188
+          ],
+          "archivo": "Jeffrey_Epstein_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            380,
+            344,
+            1184,
+            1184
+          ],
+          "archivo": "Jeffrey_Epstein_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            256,
+            152,
+            298,
+            298
+          ],
+          "archivo": "Jeffrey_Epstein_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            327,
+            64,
+            166,
+            166
+          ],
+          "archivo": "Jeffrey_Epstein_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            364,
+            519,
+            851,
+            851
+          ],
+          "archivo": "Jeffrey_Epstein_13.jpg"
+        }
+      ]
+    },
+    "Criminales/Pablo_Escobar": {
+      "procesadas": 28,
+      "omitidas": 2,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            187,
+            178,
+            318,
+            318
+          ],
+          "archivo": "Pablo_Escobar_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            452,
+            903,
+            128,
+            128
+          ],
+          "archivo": "Pablo_Escobar_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            171,
+            317,
+            366,
+            366
+          ],
+          "archivo": "Pablo_Escobar_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            275,
+            122,
+            357,
+            357
+          ],
+          "archivo": "Pablo_Escobar_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            190,
+            632,
+            349,
+            349
+          ],
+          "archivo": "Pablo_Escobar_14.jpg"
+        }
+      ]
+    },
+    "Presidentes/Andres_Manuel_Lopez_Obrador": {
+      "procesadas": 31,
+      "omitidas": 5,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            334,
+            254,
+            585,
+            585
+          ],
+          "archivo": "Andres_Manuel_Lopez_Obrador_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            572,
+            184,
+            231,
+            231
+          ],
+          "archivo": "Andres_Manuel_Lopez_Obrador_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            444,
+            50,
+            339,
+            339
+          ],
+          "archivo": "Andres_Manuel_Lopez_Obrador_13.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            252,
+            98,
+            277,
+            277
+          ],
+          "archivo": "Andres_Manuel_Lopez_Obrador_14.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            68,
+            202,
+            113,
+            113
+          ],
+          "archivo": "Andres_Manuel_Lopez_Obrador_15.jpg"
+        }
+      ]
+    },
+    "Presidentes/Barack_Obama": {
+      "procesadas": 33,
+      "omitidas": 2,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            163,
+            120,
+            722,
+            722
+          ],
+          "archivo": "000001.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            31,
+            41,
+            193,
+            193
+          ],
+          "archivo": "000002.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            1596,
+            467,
+            1085,
+            1085
+          ],
+          "archivo": "000003.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            176,
+            240,
+            890,
+            890
+          ],
+          "archivo": "000004.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            255,
+            36,
+            485,
+            485
+          ],
+          "archivo": "000006.jpg"
+        }
+      ]
+    },
+    "Presidentes/Vladimir_putin": {
+      "procesadas": 34,
+      "omitidas": 4,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            382,
+            151,
+            674,
+            674
+          ],
+          "archivo": "Vladimir_Putin_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            115,
+            185,
+            479,
+            479
+          ],
+          "archivo": "Vladimir_Putin_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            328,
+            116,
+            469,
+            469
+          ],
+          "archivo": "Vladimir_Putin_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            576,
+            148,
+            414,
+            414
+          ],
+          "archivo": "Vladimir_Putin_13.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            709,
+            399,
+            574,
+            574
+          ],
+          "archivo": "Vladimir_Putin_14.jpg"
+        }
+      ]
+    },
+    "Superheroes/Robert Downey Jr": {
+      "procesadas": 95,
+      "omitidas": 5,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            140,
+            91,
+            253,
+            253
+          ],
+          "archivo": "RobertDowneyJr_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            113,
+            135,
+            290,
+            290
+          ],
+          "archivo": "RobertDowneyJr_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            151,
+            47,
+            137,
+            137
+          ],
+          "archivo": "RobertDowneyJr_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            147,
+            77,
+            131,
+            131
+          ],
+          "archivo": "RobertDowneyJr_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            86,
+            91,
+            295,
+            295
+          ],
+          "archivo": "RobertDowneyJr_12.jpg"
+        }
+      ]
+    },
+    "Superheroes/Scarlett Johansson": {
+      "procesadas": 196,
+      "omitidas": 4,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            85,
+            128,
+            290,
+            290
+          ],
+          "archivo": "ScarlettJohansson_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            164,
+            72,
+            189,
+            189
+          ],
+          "archivo": "ScarlettJohansson_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            203,
+            14,
+            197,
+            197
+          ],
+          "archivo": "ScarlettJohansson_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            85,
+            128,
+            290,
+            290
+          ],
+          "archivo": "ScarlettJohansson_101.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            61,
+            18,
+            66,
+            66
+          ],
+          "archivo": "ScarlettJohansson_102.jpg"
+        }
+      ]
+    },
+    "Videojuegos/Cloud_Final_Fantasy_VII_remake": {
+      "procesadas": 21,
+      "omitidas": 4,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            226,
+            229,
+            312,
+            312
+          ],
+          "archivo": "Cloud_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            380,
+            93,
+            359,
+            359
+          ],
+          "archivo": "Cloud_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            872,
+            140,
+            411,
+            411
+          ],
+          "archivo": "Cloud_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            1070,
+            101,
+            268,
+            268
+          ],
+          "archivo": "Cloud_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            301,
+            838,
+            67,
+            67
+          ],
+          "archivo": "Cloud_14.jpg"
+        }
+      ]
+    },
+    "Videojuegos/Lara_Croft_Shadow_of_the_Tomb_Raider": {
+      "procesadas": 33,
+      "omitidas": 8,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            1026,
+            993,
+            158,
+            158
+          ],
+          "archivo": "Lara_Croft_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            253,
+            202,
+            230,
+            230
+          ],
+          "archivo": "Lara_Croft_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            251,
+            382,
+            632,
+            632
+          ],
+          "archivo": "Lara_Croft_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            443,
+            191,
+            334,
+            334
+          ],
+          "archivo": "Lara_Croft_13.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            681,
+            257,
+            496,
+            496
+          ],
+          "archivo": "Lara_Croft_14.jpg"
+        }
+      ]
+    },
+    "Videojuegos/Wesker": {
+      "procesadas": 13,
+      "omitidas": 6,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            128,
+            59,
+            167,
+            167
+          ],
+          "archivo": "Wesker_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            181,
+            28,
+            151,
+            151
+          ],
+          "archivo": "Wesker_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            168,
+            147,
+            173,
+            173
+          ],
+          "archivo": "Wesker_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            157,
+            105,
+            173,
+            173
+          ],
+          "archivo": "Wesker_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            175,
+            68,
+            170,
+            170
+          ],
+          "archivo": "Wesker_13.jpg"
+        }
+      ]
+    },
+    "Villanos/Joker": {
+      "procesadas": 29,
+      "omitidas": 8,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            336,
+            287,
+            448,
+            448
+          ],
+          "archivo": "Lara_Croft_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            390,
+            411,
+            386,
+            386
+          ],
+          "archivo": "Lara_Croft_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            76,
+            235,
+            271,
+            271
+          ],
+          "archivo": "Lara_Croft_13.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            385,
+            304,
+            265,
+            265
+          ],
+          "archivo": "Lara_Croft_14.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            429,
+            293,
+            747,
+            747
+          ],
+          "archivo": "Lara_Croft_15.jpg"
+        }
+      ]
+    }
+  }
+}
