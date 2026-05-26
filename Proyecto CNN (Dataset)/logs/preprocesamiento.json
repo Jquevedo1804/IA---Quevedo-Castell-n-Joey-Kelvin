@@ -1,0 +1,617 @@
+{
+  "timestamp": "2026-05-25T18:13:52.282092",
+  "detector": "Haar",
+  "resolucion": "160x160",
+  "categorias": {
+    "Angelina Jolie": {
+      "procesadas": 97,
+      "omitidas": 3,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            74,
+            115,
+            287,
+            287
+          ],
+          "archivo": "Angelina_Jolie_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            115,
+            109,
+            229,
+            229
+          ],
+          "archivo": "Angelina_Jolie_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            218,
+            135,
+            134,
+            134
+          ],
+          "archivo": "Angelina_Jolie_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            201,
+            104,
+            220,
+            220
+          ],
+          "archivo": "Angelina_Jolie_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            101,
+            100,
+            254,
+            254
+          ],
+          "archivo": "Angelina_Jolie_12.jpg"
+        }
+      ]
+    },
+    "Brad Pitt": {
+      "procesadas": 94,
+      "omitidas": 6,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            117,
+            139,
+            272,
+            272
+          ],
+          "archivo": "BradPitt_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            97,
+            121,
+            233,
+            233
+          ],
+          "archivo": "BradPitt_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            197,
+            211,
+            156,
+            156
+          ],
+          "archivo": "BradPitt_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            34,
+            33,
+            82,
+            82
+          ],
+          "archivo": "BradPitt_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            152,
+            92,
+            189,
+            189
+          ],
+          "archivo": "BradPitt_12.jpg"
+        }
+      ]
+    },
+    "Israel": {
+      "procesadas": 339,
+      "omitidas": 1,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            25,
+            111,
+            111
+          ],
+          "archivo": "Israel_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            26,
+            24,
+            111,
+            111
+          ],
+          "archivo": "Israel_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            27,
+            25,
+            109,
+            109
+          ],
+          "archivo": "Israel_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            23,
+            112,
+            112
+          ],
+          "archivo": "Israel_101.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            25,
+            24,
+            110,
+            110
+          ],
+          "archivo": "Israel_102.jpg"
+        }
+      ]
+    },
+    "Jennifer Lawrence": {
+      "procesadas": 98,
+      "omitidas": 2,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            163,
+            100,
+            183,
+            183
+          ],
+          "archivo": "JenniferLawrence_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            164,
+            118,
+            271,
+            271
+          ],
+          "archivo": "JenniferLawrence_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            182,
+            77,
+            206,
+            206
+          ],
+          "archivo": "JenniferLawrence_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            149,
+            80,
+            112,
+            112
+          ],
+          "archivo": "JenniferLawrence_12.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            187,
+            105,
+            216,
+            216
+          ],
+          "archivo": "JenniferLawrence_13.jpg"
+        }
+      ]
+    },
+    "Joey": {
+      "procesadas": 292,
+      "omitidas": 8,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            18,
+            50,
+            210,
+            210
+          ],
+          "archivo": "Joey_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            39,
+            50,
+            194,
+            194
+          ],
+          "archivo": "Joey_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            19,
+            38,
+            194,
+            194
+          ],
+          "archivo": "Joey_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            23,
+            41,
+            201,
+            201
+          ],
+          "archivo": "Joey_101.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            27,
+            41,
+            188,
+            188
+          ],
+          "archivo": "Joey_102.jpg"
+        }
+      ]
+    },
+    "Johnny Depp": {
+      "procesadas": 90,
+      "omitidas": 10,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            129,
+            106,
+            211,
+            211
+          ],
+          "archivo": "Johnny_Depp_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            161,
+            137,
+            145,
+            145
+          ],
+          "archivo": "Johnny_Depp_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            164,
+            75,
+            155,
+            155
+          ],
+          "archivo": "Johnny_Depp_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            123,
+            71,
+            181,
+            181
+          ],
+          "archivo": "Johnny_Depp_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            103,
+            83,
+            186,
+            186
+          ],
+          "archivo": "Johnny_Depp_12.jpg"
+        }
+      ]
+    },
+    "Kevin": {
+      "procesadas": 220,
+      "omitidas": 1,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            28,
+            26,
+            108,
+            108
+          ],
+          "archivo": "Kevin_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            23,
+            116,
+            116
+          ],
+          "archivo": "Kevin_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            26,
+            25,
+            106,
+            106
+          ],
+          "archivo": "Kevin_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            24,
+            24,
+            112,
+            112
+          ],
+          "archivo": "Kevin_101.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            26,
+            29,
+            105,
+            105
+          ],
+          "archivo": "Kevin_102.jpg"
+        }
+      ]
+    },
+    "Leonardo DiCaprio": {
+      "procesadas": 99,
+      "omitidas": 1,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            124,
+            120,
+            257,
+            257
+          ],
+          "archivo": "Leonardo_DiCaprio_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            108,
+            85,
+            292,
+            292
+          ],
+          "archivo": "Leonardo_DiCaprio_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            144,
+            77,
+            133,
+            133
+          ],
+          "archivo": "Leonardo_DiCaprio_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            86,
+            113,
+            249,
+            249
+          ],
+          "archivo": "Leonardo_DiCaprio_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            107,
+            96,
+            217,
+            217
+          ],
+          "archivo": "Leonardo_DiCaprio_12.jpg"
+        }
+      ]
+    },
+    "Natalie Portman": {
+      "procesadas": 98,
+      "omitidas": 2,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            99,
+            111,
+            294,
+            294
+          ],
+          "archivo": "Natalie_Portman_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            222,
+            117,
+            183,
+            183
+          ],
+          "archivo": "Natalie_Portman_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            59,
+            83,
+            257,
+            257
+          ],
+          "archivo": "Natalie_Portman_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            78,
+            124,
+            308,
+            308
+          ],
+          "archivo": "Natalie_Portman_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            100,
+            110,
+            220,
+            220
+          ],
+          "archivo": "Natalie_Portman_12.jpg"
+        }
+      ]
+    },
+    "Nicole Kidman": {
+      "procesadas": 98,
+      "omitidas": 2,
+      "muestras": [
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            143,
+            122,
+            189,
+            189
+          ],
+          "archivo": "Nicole_Kidman_1.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            108,
+            88,
+            235,
+            235
+          ],
+          "archivo": "Nicole_Kidman_10.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            220,
+            64,
+            85,
+            85
+          ],
+          "archivo": "Nicole_Kidman_100.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            36,
+            25,
+            77,
+            77
+          ],
+          "archivo": "Nicole_Kidman_11.jpg"
+        },
+        {
+          "confianza": 1.0,
+          "angulo_correccion": 0.0,
+          "bbox_original": [
+            127,
+            95,
+            169,
+            169
+          ],
+          "archivo": "Nicole_Kidman_12.jpg"
+        }
+      ]
+    }
+  }
+}

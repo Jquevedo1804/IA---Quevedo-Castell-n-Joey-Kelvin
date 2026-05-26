@@ -1,0 +1,34 @@
+{
+  "n_clases": 10,
+  "clases": {
+    "0": "Angelina Jolie",
+    "1": "Brad Pitt",
+    "2": "Israel",
+    "3": "Jennifer Lawrence",
+    "4": "Joey",
+    "5": "Johnny Depp",
+    "6": "Kevin",
+    "7": "Leonardo DiCaprio",
+    "8": "Natalie Portman",
+    "9": "Nicole Kidman"
+  },
+  "clases_nombre": [
+    "Angelina Jolie",
+    "Brad Pitt",
+    "Israel",
+    "Jennifer Lawrence",
+    "Joey",
+    "Johnny Depp",
+    "Kevin",
+    "Leonardo DiCaprio",
+    "Natalie Portman",
+    "Nicole Kidman"
+  ],
+  "resolucion": "160x160",
+  "total_imagenes": 6100,
+  "splits": {
+    "train": 4248,
+    "val": 892,
+    "test": 960
+  }
+}
