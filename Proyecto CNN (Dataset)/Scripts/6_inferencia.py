@@ -18,8 +18,6 @@ Uso:
     python Scripts/6_inferencia.py --imagen ruta/foto.jpg
     python Scripts/6_inferencia.py --imagen ruta/foto.jpg --mostrar
     python Scripts/6_inferencia.py --imagen foto.jpg --modelo models/otro_run/best_model.pth
-
-Autor: Generado automaticamente para el proyecto Face-Recognition Proyect
 """
 
 

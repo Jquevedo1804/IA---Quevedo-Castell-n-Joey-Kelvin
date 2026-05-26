@@ -1,21 +1,4 @@
-﻿# -*- coding: utf-8 -*-
-"""
-9_evaluacion.py
-===============
-Fase 9 - Reporte final y evaluacion integral del sistema.
-
-Combina resultados de:
-  - Fase 5 (metrics_test.json, history.json)
-  - Fase 8 (resultado_umbral.json)
-Y permite:
-  - Imprimir reporte final en consola
-  - Generar curvas de entrenamiento
-  - Generar matriz de confusion visual
-  - Medir rendimiento del pipeline en camara
-  - Guardar reporte consolidado en JSON
-"""
-
-import sys
+﻿import sys
 import json
 import time
 import argparse

@@ -1,16 +1,4 @@
-﻿# -*- coding: utf-8 -*-
-"""
-demo.py
-=======
-Demo unificado del sistema de reconocimiento facial.
-
-Este script es el punto de entrada para usuario final y reutiliza la logica ya
-implementada en:
-  - Fase 6 (inferencia de imagen y utilidades del modelo)
-  - Fase 7 (pipeline completo de camara)
-"""
-
-import sys
+﻿import sys
 import argparse
 import warnings
 import inspect

@@ -1,15 +1,4 @@
-﻿# -*- coding: utf-8 -*-
-"""
-8_umbral.py
-===========
-Fase 8 - Calibracion de umbral de confianza para reconocimiento facial.
-
-Este script evalua el modelo sobre el split de test para encontrar el
-threshold optimo de confianza (0.10 a 0.99), maximizando F1 con la
-restriccion de cobertura minima del 70%.
-"""
-
-import sys
+﻿import sys
 import csv
 import json
 import argparse

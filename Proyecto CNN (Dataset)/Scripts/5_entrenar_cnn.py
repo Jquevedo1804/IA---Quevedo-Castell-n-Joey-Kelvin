@@ -16,8 +16,6 @@ Funcionalidades:
 Uso:
     python Scripts/5_entrenar_cnn.py
     python Scripts/5_entrenar_cnn.py --model_name efficientnet_b0 --epochs 50 --batch_size 64 --lr 0.0003
-
-Autor: Generado automaticamente para el proyecto Face-Recognition Proyect
 """
 
 import os

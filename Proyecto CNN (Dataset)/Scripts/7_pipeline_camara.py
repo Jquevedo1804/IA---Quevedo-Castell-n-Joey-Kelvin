@@ -21,8 +21,6 @@ Uso:
     python Scripts/7_pipeline_camara.py --fuente 0 --skip_frames 3 --resize_factor 0.4
     python Scripts/7_pipeline_camara.py --fuente 0 --grabar
     python Scripts/7_pipeline_camara.py --modelo models/otro_run/best_model.pth
-
-Autor: Generado automaticamente para el proyecto Face-Recognition Proyect
 """
 
 
