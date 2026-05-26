@@ -28,7 +28,6 @@ outputs/audio_timeline/
 outputs/final/
 *.wav
 *.mp3
-*.mp4
 *.mov
 *.mkv
 *.avi
